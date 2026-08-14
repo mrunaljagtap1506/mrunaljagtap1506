@@ -1,8 +1,8 @@
 Hi, I'm Mrunal Jagtap 
 
-Computer Engineering Student | Android Developer | MERN Stack Developer
+Diploma Computer Engineering Student | Android Developer | MERN Stack Developer
 
-I am a Computer Engineering student interested in building practical, scalable, and user-focused software applications.
+I am a Diploma Computer Engineering student interested in building practical, scalable, and user-focused software applications.
 My development journey spans Android Application Development and Full-Stack Web Development using the MERN stack. I enjoy learning new technologies, developing real-world projects, and continuously improving my problem-solving and software development skills.
 
  About Me
