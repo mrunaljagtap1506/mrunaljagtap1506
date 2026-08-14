@@ -36,6 +36,7 @@ Current Focus
 - Developing real-world applications
 
 Connect
+
 LinkedIn: www.linkedin.com/in/mrunaljagtap-developer
 
 GitHub: "@mrunaljagtap1506"
